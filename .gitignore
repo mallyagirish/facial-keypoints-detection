@@ -1,0 +1,6 @@
+# Ignore Pytorch checkpoints
+*.pt
+*.pth
+
+# Ignore the Jupyter checkpoints directory
+/.ipynb_checkpoints
